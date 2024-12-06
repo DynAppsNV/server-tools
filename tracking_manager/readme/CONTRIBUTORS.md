@@ -1,2 +1,3 @@
 - Kévin Roche \<<kevin.roche@akretion.com>\>
 - Sébastien BEAU \<<sebastien.beau@akretion.com>\>
+- Bert Van Groenendael \<<bert.vangroenendael@dynapps.eu>\>
